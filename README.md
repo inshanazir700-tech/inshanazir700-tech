@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD6E7,100:FF3D94&height=200&section=header&text=Hi,%20I'm%20Insha%20✨&fontSize=42&fontColor=1a1a1a&animation=fadeIn&fontAlignY=38&desc=Microelectronics%20Engineer%20%26%20Python%20Developer&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD6E7,100:FF3D94&height=200&section=header&text=Hi%2C%20I%27m%20Insha%20%E2%9C%A8&fontSize=42&fontColor=1a1a1a&animation=fadeIn&fontAlignY=38&desc=Microelectronics%20Engineer%20%26%20Python%20Developer&descAlignY=58&descSize=18" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=FF3D94&center=true&vCenter=true&width=600&lines=Building+photonic+crystal+nanolasers+%F0%9F%92%A1;FDTD+simulation+%2B+rate-equation+modeling;Python+%7C+MATLAB+%7C+Docker+%7C+Embedded+C;Cute+is+not+the+opposite+of+serious+%F0%9F%8E%80" />
 
