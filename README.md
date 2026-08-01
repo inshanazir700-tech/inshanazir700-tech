@@ -1,8 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD6E7,100:FF3D94&height=200&section=header&text=Hi%2C%20I%27m%20Insha%20%E2%9C%A8&fontSize=42&fontColor=1a1a1a&animation=fadeIn&fontAlignY=38&desc=Microelectronics%20Engineer%20%26%20Python%20Developer&descAlignY=58&descSize=18" width="100%"/>
+# Hi, I'm Insha ✨
+### Microelectronics Engineer &amp; Python Developer
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=FF3D94&center=true&vCenter=true&width=600&lines=Building+photonic+crystal+nanolasers+%F0%9F%92%A1;FDTD+simulation+%2B+rate-equation+modeling;Python+%7C+MATLAB+%7C+Docker+%7C+Embedded+C;Cute+is+not+the+opposite+of+serious+%F0%9F%8E%80" />
+<img src="https://img.shields.io/badge/Available%20for-Entry--Level%20Roles-FF3D94?style=for-the-badge" />
 
 </div>
 
@@ -54,12 +55,8 @@ fun_fact: derives the math before I trust the simulation 📐
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=inshanazir700-tech&show_icons=true&hide_border=true&title_color=FF3D94&icon_color=FF3D94&text_color=1a1a1a&bg_color=FFF5F9&ring_color=FF3D94" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=inshanazir700-tech&hide_border=true&background=FFF5F9&ring=FF3D94&fire=FF3D94&currStreakLabel=FF3D94&sideLabels=1a1a1a&currStreakNum=1a1a1a&sideNums=1a1a1a&dates=8a8590" />
-
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=inshanazir700-tech&layout=compact&hide_border=true&title_color=FF3D94&text_color=1a1a1a&bg_color=FFF5F9&langs_count=8" />
+![Followers](https://img.shields.io/github/followers/inshanazir700-tech?style=for-the-badge&color=FF3D94&labelColor=FFD6E7&logo=github&logoColor=FF3D94)
+![Repos](https://img.shields.io/badge/dynamic/json?style=for-the-badge&color=FF3D94&labelColor=FFD6E7&label=Repos&query=public_repos&url=https://api.github.com/users/inshanazir700-tech)
 
 </div>
 
@@ -78,10 +75,7 @@ fun_fact: derives the math before I trust the simulation 📐
 <br>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF3D94,100:FFD6E7&height=100&section=footer"/>
-
 <sub>✨ made with a little bit of MEEP and a lot of pink ✨</sub>
 </div>
-
 
 
