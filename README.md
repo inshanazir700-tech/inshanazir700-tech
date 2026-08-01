@@ -20,7 +20,11 @@ currently_building: FDTD-based photonic cavity evaluation tasks @ Handshake AI (
 looking_for: entry-level roles in photonic/semiconductor R&D or Python engineering
 fun_fact: derives the math before I trust the simulation 📐
 ```
+## 🐍 Contribution Snake
 
+<div align="center">
+<img src="https://raw.githubusercontent.com/inshanazir700-tech/inshanazir700-tech/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</div>
 <br>
 
 ## 🧠 What I Work With
